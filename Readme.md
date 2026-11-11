@@ -2,7 +2,7 @@
 
 Welcome to my **Data Structures and Algorithms (DSA)** repository! 🚀
 
-This repository contains my DSA `learning` journey and `practice` problems implemented using **C++**. It covers fundamental data structures, algorithms, and problem-solving techniques to improve logical thinking and programming skills.
+This repository contains my DSA `learning` journey and `practice` problems implemented using **C++**. It covers fundamental `data structures`, `algorithms`, and problem-solving techniques to improve logical thinking and programming skills.
 
 ## 🎯 Objectives
 
