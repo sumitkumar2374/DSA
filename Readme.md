@@ -7,7 +7,7 @@ This repository contains my DSA `learning` journey and `practice` problems imple
 ## 🎯 Objectives
 
 - Build a strong foundation in `Data Structures and Algorithms`.
-- Understand important DSA concepts through practical implementation.
+- Understand important DSA concepts through `practical implementation`.
 - Improve problem-solving and logical thinking.
 - Practice writing efficient and optimized C++ code.
 - Maintain a record of my learning and progress.
