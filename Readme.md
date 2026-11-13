@@ -10,7 +10,7 @@ This repository contains my DSA `learning` journey and `practice` problems imple
 - Understand important DSA concepts through `practical implementation`.
 - Improve problem-solving and logical thinking.
 - Practice writing `efficient` and optimized `C++ code`.
-- Maintain a record of my learning and progress.
+- Maintain a record of my `learning` and `progress`.
 
 ## 🗂️ Topics Covered
 
