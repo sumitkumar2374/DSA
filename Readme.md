@@ -75,7 +75,7 @@ flowchart TD
 
 ## 📈 Learning Progress
 
-This repository is continuously updated with new concepts, practice questions, and solutions as I progress in my DSA journey.
+This repository is continuously `updated` with `new concepts`, practice questions, and solutions as I progress in my DSA journey.
 
 ## 👨‍💻 Author
 
