@@ -16,7 +16,7 @@ This repository contains my DSA `learning` journey and `practice` problems imple
 
 | Topic | Description |
 |---|---|
-| Basics of C++ | Syntax, loops, functions, and fundamentals |
+| Basics of `C++` | Syntax, loops, functions, and fundamentals |
 | Arrays | Traversal, searching, and manipulation |
 | Strings | String operations and problems |
 | Searching | Linear Search, Binary Search |
