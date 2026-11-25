@@ -1,5 +1,7 @@
 # Here are the commit list for contribution graph to show 
 
+- 1st/2nd commit 
+
 # 💻 Data Structures & Algorithms in C++
 
 Welcome to my **Data Structures and Algorithms (DSA)** repository! 🚀
