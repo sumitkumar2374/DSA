@@ -1,4 +1,6 @@
-# Here are the commit list to graph contribution 
+# Here are the commit list to graph contribution
+
+- 1st/2nd commit 
 
 # 💻 Data Structures & Algorithms in C++
 
